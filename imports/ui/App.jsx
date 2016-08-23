@@ -4,9 +4,8 @@ export default class App extends Component {
   render() {
     return (
       <div className="container">
-        <header>
-          <h1>____'s Card</h1>
-        </header>
+
+        <h1>My Card</h1>
 
         <ul>
           <form className="new-card">
