@@ -10,7 +10,7 @@ export default class App extends Component {
 
         <ul>
           <form className="new-card">
-            <input
+            <textarea
               type="text"
               ref="textInput"
               placeholder="Add the info you would like displayed on your card"
