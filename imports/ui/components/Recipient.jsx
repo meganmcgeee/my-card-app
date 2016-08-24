@@ -3,7 +3,7 @@ import React from 'react';
 const Recipient = () => (
   <div className="container">
     <h1>My Card</h1>
-    <h4>Enter the phone number of who you are sending your card to!</h4>
+    <h4>Enter the phone number(s) of who you are sending your card to!</h4>
     <ul>
       <form className="recipient">
         <input
@@ -13,7 +13,7 @@ const Recipient = () => (
         />
       </form>
     </ul>
-    <button />
+    <button>Send</button>
   </div>
 );
 
