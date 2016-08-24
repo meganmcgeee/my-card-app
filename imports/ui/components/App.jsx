@@ -6,7 +6,6 @@ export default class App extends Component {
       <div className="container">
 
         <h1>My Card</h1>
-
         <ul>
           <form className="new-card">
             <textarea
